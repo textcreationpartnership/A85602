@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great fight neer the city of Dublin in Ireland, between the Princes forces commanded by the Marquesse of Ormond, and the Parliaments forces under the conduct of Col. Jones; with the particulars thereof, and the names of those regiments who yeelded upon quarter, to march away without arms, with their hands in their pockets. Also terrible newes from the north of England, and another great army raising in Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85602</idno>
+            <idno type="STC">Wing G1704</idno>
+            <idno type="STC">Thomason E552_25</idno>
+            <idno type="STC">ESTC R205739</idno>
+            <idno type="EEBO-CITATION">99865029</idno>
+            <idno type="PROQUEST">99865029</idno>
+            <idno type="VID">165070</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85602)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165070)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 85:E552[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great fight neer the city of Dublin in Ireland, between the Princes forces commanded by the Marquesse of Ormond, and the Parliaments forces under the conduct of Col. Jones; with the particulars thereof, and the names of those regiments who yeelded upon quarter, to march away without arms, with their hands in their pockets. Also terrible newes from the north of England, and another great army raising in Scotland.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for R.W.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>May 2. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165070:1" rendition="simple:additions"/>
+            <p>A GREAT FIGHT NEER The City of <hi>Dublin</hi> in <hi>Ireland,</hi> between the Princes Forces commanded by the Marqueſſe of <hi>Ormond,</hi> and the Par<g ref="char:EOLhyphen"/>liaments Forces under the conduct of Col. <hi>Jones;</hi> with the particulars thereof, and the Names of thoſe Regiments who yeelded upon quarrel, to march away without arms, with their hands in their pockets. Alſo terrible Newes from the North of <hi>England,</hi> and ano<g ref="char:EOLhyphen"/>thers great Army raiſing in <hi>Scotland.</hi>
+            </p>
+            <figure>
+               <figDesc>portrait of a man</figDesc>
+            </figure>
+            <p>Imprinted at <hi>London,</hi> for <hi>R. W. May</hi> 2. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165070:2"/>
+            <pb n="1" facs="tcp:165070:2"/>
+            <head>A Great VICTORY Obtained in IRELAND By the Princes Forces under the command of the Marqueſſe of <hi>Ormond,</hi> with the names of thoſe Regiments who yeelded upon quarter, and the particulars of the fight.</head>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>THe Marqueſſe of <hi>Ormond</hi> (wee heare) is ſate down before the City of <hi>Dublin</hi> with 12000 Horſe and Foot, and hath ſummoned Colonell <hi>Jones</hi> the Governour, to ſubmit and ſurrender the ſaid City to the obedience of his Majeſty, <hi>Charles</hi> the II,
+<pb n="2" facs="tcp:165070:3"/>for ſo is he called by thoſe new Aſſociates, but the Governour is reſolved to hold it out to the laſt hour with the hazard of life &amp; fortunes, and in order there<g ref="char:EOLhyphen"/>unto, hath diſputed ſeverall paſſes with great gallan<g ref="char:EOLhyphen"/>try and forced the Enemy to a diſorderly retreat; in<g ref="char:EOLhyphen"/>ſomuch that they have inlarged their quarters, and cau<g ref="char:EOLhyphen"/>ſed the Marqueſſe to withdraw at a further diſtance; but upon this motion, fortune frowned upon our Sons of <hi>Mars,</hi> the Enemy making an attempt upon ſome of the frontier Gariſons, adjacent to the City became both ſucceſsfull and victorious, the manner thus:</p>
+                  <p>When they were about ſix miles diſtant from the City, the Generall gave command that a conſiderable party of Horſe and Foot ſhould be drawn forth, for the aſſaulting of the aforeſaid Gariſons, and ſubduing of the Parliaments Forces: the firſt that they attem<g ref="char:EOLhyphen"/>pted was upon a part of Col. <hi>Hungerfords</hi> Regiment, who defended the place with unanimous Spirits, and received the Enemy with great courage; but being o<g ref="char:EOLhyphen"/>verpowred were conſtrained to article for their lives, which took effect, and Hoſtages being appointed to treat, theſe enſuing Articles were ſigned and agreed upon.</p>
+                  <list>
+                     <item>1 <hi>That all armes, powder, bullet, and other Neceſſaries appertaining to the ſaid Garriſon, ſhould be ſafely deli<g ref="char:EOLhyphen"/>vered to the Marqueſſe of</hi> Ormond, <hi>or ſuch as he ſhould appoint, without any imbezelment whatſoever.</hi>
+                     </item>
+                     <item>2 <hi>That they ſhall leave all their armes behind them, and march with their hands in their pockets.</hi>
+                     </item>
+                     <item>3 <hi>That they ſhall not be interrupted in their paſsage, but have free liberty to go where they pleaſe.</hi>
+                     </item>
+                  </list>
+                  <p>Thus may you apparently diſcern the exorbitances
+<pb n="3" facs="tcp:165070:3"/>of the uſurping Marqueſſe, and his Confederate Ca<g ref="char:EOLhyphen"/>tholiques, how, and with what inſolencies they begin, if they ſurmount and diſ impower Us there or here, a man that can but ſee with half an eye, may eaſily diſ<g ref="char:EOLhyphen"/>cern what in future times may be expected from them, what ſhall we ſay, <hi>The mercies of the wicked are cruel<g ref="char:EOLhyphen"/>ties.</hi>
+                  </p>
+                  <p>They have alſo made an attempt upon another Ga<g ref="char:EOLhyphen"/>riſon, which proved effectuall, but not without great loſſe; for it is ſaid they loſt above one hundred men in the taking of it, beſides as many wounded, occaſioned by the unparalel'd valour of Col. <hi>Long</hi> (the Gover<g ref="char:EOLhyphen"/>nour) and his Heroick Spirits, and after a hot diſpute articled as aforeſaid, and ſurrendred upon honourable conditions.</p>
+                  <p>They uſe their utmoſt endeavors for the reducing of all Gariſons ere new forces be ſent over, and are mar<g ref="char:EOLhyphen"/>ching againſt <hi>Dublin</hi> with a reſolution to ſtorm. But we hope, that ſupplies will be ſuddenly expedited thi<g ref="char:EOLhyphen"/>ther, for the preſervation of the diſtreſſed defendants, from the rage and fury of the bloud thirſty Enemy.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Cheſter</hi>
+                        <date> 26. <hi>Aprill,</hi> 1649</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <p>The Committee of Eſtates ſit daily in conſultation, and are exceedingly diſcontented at their new Kings re<g ref="char:EOLhyphen"/>fuſall to grant their deſires, and reject a complyance with them; whereupon many of them have declared their aſſent for a meſſage to be ſent to the parliament of <hi>England,</hi> in reference to a Treaty, touching prince <hi>Charles;</hi> but many of the great Ones are divided in that particular, and the Commoners cannot indure to heare of the ſubverſion of Monarchy.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Berwick</hi>
+                        <date>27 <hi>April,</hi> 1649.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="4" facs="tcp:165070:4"/>
+                  <opener>
+                     <salute>Honoured Sir,</salute>
+                  </opener>
+                  <p>VPon the 26. of this inſtant, here arrived a Meſſen<g ref="char:EOLhyphen"/>ger from Prince <hi>Maurice,</hi> with a Letter to the Prince of <hi>Wales,</hi> wherein he gives an account to his Highneſſe of the preſent tranſactions at Sea, purpor<g ref="char:EOLhyphen"/>ting, That without a ſpeedy ſupply of Monies, and o<g ref="char:EOLhyphen"/>ther neceſſaries appertaining thereunto, for accom<g ref="char:EOLhyphen"/>modation of the Mariners, a great diſtraction would ſuddenly break forth amongſt them new Coles being already kindling, which are ready to break forth in a viſible flame.</p>
+                  <p>For we hear, that they mutiny exceedingly, and have declared, That they will not engage againſt the Parlia<g ref="char:EOLhyphen"/>ments Navy without aſſurance both of preſent and fu<g ref="char:EOLhyphen"/>ture ſatisfaction; inſomuch, that many of them have undantedly remonſtrated to Prince <hi>Rupert,</hi> and other ſuperiour Officers, that they will rather die and ſuffer martyrdome, then be enſlaved and ruled by a uſurping power and arbytrary Government.</p>
+                  <p>This ſtrange allarum ſoundeth in the eares of many like a terrible eccho, and puts a great demur to the proceedings at Court, many of the Grandees declining Engagement; eſpecially ſince the receipt of the In<g ref="char:EOLhyphen"/>telligence, that the parliaments Navy are put forth to Sea who are joyntly reſolved to hazard the encounter, and to bring them to obedience and ſubjection, who have perfidiouſly deſerted, and betrayed the truſt re<g ref="char:EOLhyphen"/>poſed in them.</p>
+                  <p>And by an Expreſſe from <hi>Helver-ſluce</hi> it is further intimated, that upon the lanching forth of the parlia<g ref="char:EOLhyphen"/>ments ſhips to the Ocean, they ſoon eſpyed a Squadron of the princes Fleet, all under ſayl, being about ſixteen in number, who making towards them, and comming
+<pb n="5" facs="tcp:165070:4"/>within ſhot, gave them a broad ſide, which by reaſon of a ſecond Volley from the aſſaulted, a hot conflict began, being diſputed with great reſoluteneſſe and gal<g ref="char:EOLhyphen"/>lantry on both ſides, the Victory ſeeming a long while doubtfull, but at laſt it fell to the parliamenteers, who unk one of their Combitants, chaſed the reſt many leagues, and are now become Maſters of a great part of the Brittiſh Seas.</p>
+                  <p>This is reported here with great confidence, and it is verily believed, the reſt will not ſtand a fight, divers of them fearing, that they ſhall be made exemplary, if e<g ref="char:EOLhyphen"/>ver they be taken. Col. <hi>Popham</hi> one of the parliaments Admirals, hath cleered the Weſtern Coaſt neere the Iſle of <hi>Portland,</hi> and forced many to fly before him. The other two Admirals, Col. <hi>Blague,</hi> and Col. <hi>Deane,</hi> are upon the ſame motion on the South-weſt point.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Hague</hi>
+                        <date> 27. <hi>Aprill,</hi> 1649.</date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>Postſcript,</hi> Sir, Since the writing of my laſt, the two extraordinary Embaſſadours from Sweden and Denmark have had audience with the titufar King of Scotland, repreſenting the perſonall appearance of their Maſters, and promiſing him aſſiſtance for the ob<g ref="char:EOLhyphen"/>taining of his Birthright. But truly we cannot diſcerne any viſible Force as yet in Armes, and the Princes Propoſitions to the old Souldiers of the United Pro<g ref="char:EOLhyphen"/>vinces are much ſlighted and rejected, having unani<g ref="char:EOLhyphen"/>mouſly declared, that they will not any wayes inter<g ref="char:EOLhyphen"/>meddle with the affairs of <hi>England,</hi> in relation to the erecting and ſetting up of Monarchy, or any other Go<g ref="char:EOLhyphen"/>vernment whatſoever. Here is a great demur hapned, at Court, by reaſon of the Parliaments Navy putting forth to Sea, which cauſeth many who at firſt ſeemed very forward to promote the Royall Deſign, to deſert
+<pb n="6" facs="tcp:165070:5"/>any further Engagement, taking a preſident by the late headleſſe members, who acted againſt the Common<g ref="char:EOLhyphen"/>wealth of <hi>England.</hi>
+                     </p>
+                     <closer>
+                        <dateline>
+                           <hi>Hague</hi>
+                           <date> 27. <hi>Aprill</hi> 1649.</date>
+                        </dateline>
+                     </closer>
+                  </postscript>
+               </body>
+            </floatingText>
+            <p>Letters from the North ſay, That the Scots are ſtill levying of men, but what the end of it is, time will ma<g ref="char:EOLhyphen"/>nifeſt, all our enquiries cannot attain to the certaine knowledge of it: However we doubt not but to be as vigilant, as they are politike, and if we can but faciliate the taking of <hi>Time</hi> by the fore top, and reconcile our domeſtique diſtractions, we need not fear any foraign commotions. Yet the neceſſities of theſe parts are ſo great, that the Inhabitants are far from a defenſive po<g ref="char:EOLhyphen"/>ſture, eſpecially <hi>Northumberland, Cumberland,</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>merland,</hi> where the poorer ſort are almoſt famiſhed, many hundreds dying in the high wayes for want of bread; it appearing by a Certificate from the Juſtices of <hi>Cumberland,</hi> that there are neer upon 30000. fami<g ref="char:EOLhyphen"/>lies in that County, that have neither Seed, Bread corn, nor monies to buy either.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
